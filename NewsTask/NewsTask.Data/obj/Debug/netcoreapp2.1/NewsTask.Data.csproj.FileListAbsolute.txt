@@ -1,0 +1,11 @@
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\bin\Debug\netcoreapp2.1\NewsTask.Data.deps.json
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\bin\Debug\netcoreapp2.1\NewsTask.Data.dll
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\obj\Debug\netcoreapp2.1\NewsTask.Data.csproj.CoreCompileInputs.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\obj\Debug\netcoreapp2.1\NewsTask.Data.AssemblyInfoInputs.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\obj\Debug\netcoreapp2.1\NewsTask.Data.AssemblyInfo.cs
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\bin\Debug\netcoreapp2.1\NewsTask.Data.pdb
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\obj\Debug\netcoreapp2.1\NewsTask.Data.dll
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\obj\Debug\netcoreapp2.1\NewsTask.Data.pdb
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\bin\Debug\netcoreapp2.1\NewsTask.Data.runtimeconfig.json
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\bin\Debug\netcoreapp2.1\NewsTask.Data.runtimeconfig.dev.json
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Data\obj\Debug\netcoreapp2.1\NewsTask.Data.csprojAssemblyReference.cache

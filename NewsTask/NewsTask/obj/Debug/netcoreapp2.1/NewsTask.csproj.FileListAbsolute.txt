@@ -1,0 +1,14 @@
+C:\Users\5bl\source\repos\NewsTask\NewsTask\bin\Debug\netcoreapp2.1\NewsTask.deps.json
+C:\Users\5bl\source\repos\NewsTask\NewsTask\bin\Debug\netcoreapp2.1\NewsTask.runtimeconfig.json
+C:\Users\5bl\source\repos\NewsTask\NewsTask\bin\Debug\netcoreapp2.1\NewsTask.runtimeconfig.dev.json
+C:\Users\5bl\source\repos\NewsTask\NewsTask\bin\Debug\netcoreapp2.1\NewsTask.dll
+C:\Users\5bl\source\repos\NewsTask\NewsTask\bin\Debug\netcoreapp2.1\NewsTask.pdb
+C:\Users\5bl\source\repos\NewsTask\NewsTask\obj\Debug\netcoreapp2.1\NewsTask.csprojAssemblyReference.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask\obj\Debug\netcoreapp2.1\NewsTask.csproj.CoreCompileInputs.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask\obj\Debug\netcoreapp2.1\NewsTask.RazorAssemblyInfo.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask\obj\Debug\netcoreapp2.1\NewsTask.RazorAssemblyInfo.cs
+C:\Users\5bl\source\repos\NewsTask\NewsTask\obj\Debug\netcoreapp2.1\NewsTask.AssemblyInfoInputs.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask\obj\Debug\netcoreapp2.1\NewsTask.AssemblyInfo.cs
+C:\Users\5bl\source\repos\NewsTask\NewsTask\obj\Debug\netcoreapp2.1\NewsTask.RazorTargetAssemblyInfo.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask\obj\Debug\netcoreapp2.1\NewsTask.dll
+C:\Users\5bl\source\repos\NewsTask\NewsTask\obj\Debug\netcoreapp2.1\NewsTask.pdb

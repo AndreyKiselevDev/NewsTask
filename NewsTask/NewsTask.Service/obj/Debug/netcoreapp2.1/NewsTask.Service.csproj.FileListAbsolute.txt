@@ -1,0 +1,12 @@
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\bin\Debug\netcoreapp2.1\NewsTask.Service.deps.json
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\bin\Debug\netcoreapp2.1\NewsTask.Service.dll
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\bin\Debug\netcoreapp2.1\NewsTask.Service.pdb
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\obj\Debug\netcoreapp2.1\NewsTask.Service.csprojAssemblyReference.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\obj\Debug\netcoreapp2.1\NewsTask.Service.csproj.CoreCompileInputs.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\obj\Debug\netcoreapp2.1\NewsTask.Service.AssemblyInfoInputs.cache
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\obj\Debug\netcoreapp2.1\NewsTask.Service.AssemblyInfo.cs
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\obj\Debug\netcoreapp2.1\NewsTask.Service.dll
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\obj\Debug\netcoreapp2.1\NewsTask.Service.pdb
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\bin\Debug\netcoreapp2.1\NewsTask.Data.dll
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\bin\Debug\netcoreapp2.1\NewsTask.Data.pdb
+C:\Users\5bl\source\repos\NewsTask\NewsTask.Service\obj\Debug\netcoreapp2.1\NewsTask.Service.csproj.CopyComplete
